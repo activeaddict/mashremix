@@ -1,0 +1,30 @@
+mess1 mess2
+
+ANNOUNCEMENTWINDOW ="OFF"
+
+<item>
+<new>mess1</new>
+<message1>MashRemix 1.0</message1>
+<message2>Mash is now yours</message2>
+<message3></message3>
+<ANNOUNCEMENT>[B]The Remix 1.0[/B]</ANNOUNCEMENT>
+<old>mess2</old>
+</item>
+
+ </mu>
+
+
+<vid>
+<new></new>
+<video></video>
+<old></old>
+</vid>
+
+
+
+
+#################AutoUpdater##Settings#############################
+AutoSource= github or bitbucket
+UpdateOption= original or gitupdate1 or gitupdate2
+
+<AutoSource></AutoSource><UpdateOption></UpdateOption>
